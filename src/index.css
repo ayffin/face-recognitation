@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, rgb(112, 194, 221), rgb(187, 125, 117));
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
